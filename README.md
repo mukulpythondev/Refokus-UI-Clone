@@ -22,7 +22,7 @@
 
 ## Live Website
 
-Embark on a unique browsing journey with the Unique Refokus Enhancement Project: [Live Demo](https://refokus-ui-clone.netlify.app/) (Replace '#' with your live website URL)
+Embark on a unique browsing journey with the Unique Refokus Enhancement Project: [Live Demo](https://refokus-ui-clone.netlify.app/) 
 
 
 
